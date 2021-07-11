@@ -80,3 +80,7 @@ form button:hover {
 .trash-btn {
 	background-color: #e74c3c;
 }
+.fa-trash,
+.fa-check-square {
+	pointer-events: none;
+}
